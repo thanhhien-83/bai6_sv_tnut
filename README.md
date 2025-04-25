@@ -34,13 +34,43 @@ Các bước import dữ liệu sv_tnut.sql vào SQL Serve.
 Kiểm tra đã import file sv_tnut.sql vào database sv_tnut chưa.  
 ![4  file đã đc import](https://github.com/user-attachments/assets/cacc36d7-5ba2-4845-8e72-1e7f9da6c03b)  
 
+# THỰC HIỆN YÊU CẦU TỪ 2 ĐẾN 9
 # Hình 6:  
-Câu lệnh select để tìm ra những sinh viên trùng hoàn toàn ngày/ tháng/ năm sinh.  
+2. Dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên (của sv đang làm bài tập này)  
+![image](https://github.com/user-attachments/assets/32ad894f-6b89-45bd-b6fa-5e2b57a67aa4)  
 
+# Hình 7:  
+Câu lệnh select để tìm ra vinh viên trùng hoàn toàn ngày/tháng/năm.  
+![5](https://github.com/user-attachments/assets/5f4bbb79-2fc1-4893-8789-f2b6dfc6a1c0)  
 
+# Hình 8:  
+Câu lệnh select để tìm ra vinh viên trùng ngày và tháng sinh.  
+![6](https://github.com/user-attachments/assets/88db05b8-be22-4fab-94ba-8d4d10c4375d)  
 
+# Hình 8:  
+Câu lệnh select để tìm sinh viên trùng tháng và năm sinh.  
+![7](https://github.com/user-attachments/assets/5d7b5c2f-e324-4f3d-9aaa-f74ddd1c4d79)  
 
+#  Hình 8:  
+Câu lệnh select để tìm sinh viên trùng tên (Hiền).  
+![8](https://github.com/user-attachments/assets/f4800d32-7c8b-4430-9ec2-4aabe9d70142)
 
+#  Hình 8:  
+Câu lệnh select để tìm sinh viên trùng họ và tên đệm (Hứa Thị Thanh).  
+![9](https://github.com/user-attachments/assets/b1715816-28b7-4c88-bbc6-c1d10d460298)  
+
+#  Hình 8:  
+Câu lệnh select sinh viên có SĐT sai khác đúng 1 số so với 0981597907  
+-- So sánh từng ký tự trong chuỗi sdt với '0981597907'  
+![10  ](https://github.com/user-attachments/assets/de6ffcf3-0b2f-47ff-83a9-a5e6ee63d6fd)  
+
+# Hình 9:  
+Câu lệnh select liệt kê tất cả SV ngành KMT (lọc theo tên lớp có 'KMT'), sắp xếp theo tên và họ đệm kiểu tiếng Việt.  
+![11](https://github.com/user-attachments/assets/0d8f6163-2736-4a7d-9179-02f0352c1bf0)  
+
+# Hình 10: 
+Câu lệnh select sinh viên nữ ngành KMT (dựa trên các tên thường là nữ, vì không có cột giới tính nên không đúng 100%).  
+![12](https://github.com/user-attachments/assets/76778d81-9ba2-4a93-8280-cae374a3c5c6)  
 
 
 
