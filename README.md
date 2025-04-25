@@ -1,7 +1,7 @@
 # bai6_sv_tnut
 Bài tập 6:  Sv Hứa Thị Thanh Hiền K225480106016 K58ktpm.01 
 Bài tập 6: Hệ quản trị CSDL
-Chủ đề: Câu lệnh Select
+Chủ đề: Câu lệnh Select 
 Yêu cầu bài tập: 
 Cho file sv_tnut.sql (1.6MB)
 1. Hãy nêu các bước để import được dữ liệu trong sv_tnut.sql vào sql server của em
