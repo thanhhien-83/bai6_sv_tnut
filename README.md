@@ -1,5 +1,5 @@
 # bai6_sv_tnut
-Bài tập 6 sv Hứa Thị Thanh Hiền K225480106016 K58ktpm.01 
+Bài tập 6:  Sv Hứa Thị Thanh Hiền K225480106016 K58ktpm.01 
 Bài tập 6: Hệ quản trị CSDL
 Chủ đề: Câu lệnh Select
 Yêu cầu bài tập: 
@@ -15,10 +15,23 @@ Cho file sv_tnut.sql (1.6MB)
 9. BẢNG SV CÓ HƠN 9000 ROWS, HÃY LIỆT KÊ TẤT CẢ CÁC SV NGÀNH KMT, SẮP XẾP THEO TÊN VÀ HỌ ĐỆM, KIỂU TIẾNG  VIỆT, GIẢI THÍCH.
 10. HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV (TRÌNH BÀY QUÁ TRÌNH SUY NGHĨ VÀ GIẢI NHỮNG VỨNG MẮC)
 
-DEADLINE: 23H59:59 NGÀY 25/4/2025
+DEADLINE: 23H59:59 NGÀY 25/4/2025  
+# Bài Làm  
+# Hình 1:  
+Tạo cơ sở dữ liệu có tên là sv_tnut. Lưu ở D:\Học Tập\Hệ quản trị cơ sở dữ liệu.  
+![1](https://github.com/user-attachments/assets/fba6d8f8-ba8c-4e27-8e3b-49ac98ded6a6)  
 
+# Hình 2+3:  
+Các bước import dữ liệu sv_tnut.sql vào SQL Serve.  
+![2](https://github.com/user-attachments/assets/71f9ae4a-c1cb-4c0d-b877-a8db46986bef)  
+![3](https://github.com/user-attachments/assets/1bbae965-9f7e-4ddc-9738-c30f2533e06a)  
 
+# Hình 4:  
+Kiểm tra đã import file sv_tnut.sql vào database sv_tnut chưa.  
+![4  file đã đc import](https://github.com/user-attachments/assets/cacc36d7-5ba2-4845-8e72-1e7f9da6c03b)  
 
+# Hình 5:  
+Câu lệnh select 
 
 
 
