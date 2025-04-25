@@ -22,20 +22,19 @@ Tạo cơ sở dữ liệu có tên là sv_tnut. Lưu ở D:\Học Tập\Hệ qu
 ![1](https://github.com/user-attachments/assets/fba6d8f8-ba8c-4e27-8e3b-49ac98ded6a6)  
 
 # Hình 2: 
-Tạo bảng thêm dữ liệu cho bảng( 
+Tạo bảng thêm dữ liệu cho bảng (dựa vào file sv_tnut.sql)  
 ![image](https://github.com/user-attachments/assets/313e9a1e-2a8a-4667-9f13-fddca8ab3ddc)
 
-
-# Hình 2+3:  
+# Hình 3+4:  
 Các bước import dữ liệu sv_tnut.sql vào SQL Serve.  
 ![2](https://github.com/user-attachments/assets/71f9ae4a-c1cb-4c0d-b877-a8db46986bef)  
 ![3](https://github.com/user-attachments/assets/1bbae965-9f7e-4ddc-9738-c30f2533e06a)  
 
-# Hình 4:  
+# Hình 5:  
 Kiểm tra đã import file sv_tnut.sql vào database sv_tnut chưa.  
 ![4  file đã đc import](https://github.com/user-attachments/assets/cacc36d7-5ba2-4845-8e72-1e7f9da6c03b)  
 
-# Hình 5:  
+# Hình 6:  
 Câu lệnh select để tìm ra những sinh viên trùng hoàn toàn ngày/ tháng/ năm sinh.  
 
 
