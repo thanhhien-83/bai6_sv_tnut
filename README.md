@@ -40,7 +40,7 @@ Kiểm tra đã import file sv_tnut.sql vào database sv_tnut chưa.
 ![image](https://github.com/user-attachments/assets/32ad894f-6b89-45bd-b6fa-5e2b57a67aa4)  
 
 # Hình 7:  
-Câu lệnh select để tìm ra vinh viên trùng hoàn toàn ngày/tháng/năm.  
+Câu lệnh select để tìm ra vinh viên trùng hoàn toàn ngày/tháng/năm sinh.    
 ![5](https://github.com/user-attachments/assets/5f4bbb79-2fc1-4893-8789-f2b6dfc6a1c0)  
 
 # Hình 8:  
